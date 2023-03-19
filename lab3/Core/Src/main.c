@@ -52,7 +52,6 @@ uint32_t NewRPM;
 uint32_t MotorSetDuty = 100;
 uint32_t MotorSetRPM = 0;
 uint32_t MotorControlEnable = 0;
-float NewDuty;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
